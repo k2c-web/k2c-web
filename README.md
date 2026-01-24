@@ -5,20 +5,6 @@ Je conçois, migre et optimise des applications web à fort trafic pour des entr
 
 ---
 
-## 🎖️ Technologies principales
-
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS-Modules-1572B6?logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styledcomponents&logoColor=white)
-![Jotai](https://img.shields.io/badge/Jotai-State-2E7D32)
-![Storybook](https://img.shields.io/badge/Storybook-UI%20Components-FF4785?logo=storybook&logoColor=white)
-
----
-
 ## 🚀 Ce que je fais au quotidien
 - Développement frontend moderne avec **React 18**, **Next.js 14 (App Router)** et **TypeScript 5**  
 - Refactoring avancé : découpage de composants complexes, simplification des flux, réduction de la dette technique  
