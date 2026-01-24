@@ -1,5 +1,12 @@
 # 👋 Salut, moi c’est Kamil — Senior Frontend Developer
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3-42b883?logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white)
+![Jest](https://img.shields.io/badge/Tests-Jest-C21325?logo=jest&logoColor=white)
+
 Passionné par les interfaces élégantes, les architectures frontend modernes et les expériences utilisateur fluides.  
 Je conçois, migre et optimise des applications web à fort trafic pour des entreprises exigeantes.
 
@@ -17,6 +24,15 @@ Je conçois, migre et optimise des applications web à fort trafic pour des entr
 **Tests :** Jest, Testing Library, Vitest  
 **CMS & backend :** Prismic, Drupal, Node.js  
 **Autres :** GitHub Actions, Webpack/Vite, GTM, A/B testing
+
+## 🏗️ Architecture & pratiques
+- Conception et évolution d’architectures frontend modernes (React 18, Next.js 14, RSC)  
+- Découpage logique : composants, modules, feature folders, séparation des responsabilités  
+- Gestion avancée de l’état : Jotai, Zustand, Redux, contextes optimisés  
+- Performance : profiling, memoisation, streaming, caching, lazy-loading  
+- Intégration API : microservices, REST, GraphQL, CMS headless  
+- Patterns : composition, hooks avancés, providers, architecture modulaire  
+- Qualité : tests unitaires, tests d’intégration, documentation, revues de code  
 
 ## 🏢 Quelques projets récents
 ### 🎮 FDJ United
