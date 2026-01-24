@@ -5,10 +5,11 @@ Je conçois, migre et optimise des applications web à fort trafic pour des entr
 
 ## 🚀 Ce que je fais au quotidien
 - Développement frontend moderne avec **React 18**, **Next.js 14 (App Router)** et **TypeScript 5**
-- Migrations complexes (legacy → moderne), refactoring, architecture et performance
-- Collaboration étroite avec designers, PM, data & SEO
-- Mise en place de design systems, accessibilité, tests et CI/CD
-- Optimisation UX/UI et amélioration continue
+- Refactoring avancé : découpage de composants complexes, simplification des flux, réduction de la dette technique
+- Optimisation des performances : réduction du coût de rendu, amélioration du lazy-loading, allègement des bundles, gestion fine de l’état
+- Intégration avec des **API REST** ou **GraphQL**, qu’elles proviennent de **microservices** ou de **CMS headless**
+- Collaboration étroite avec designers, PM, data & SEO pour garantir une expérience fluide et cohérente
+- Mise en place de tests automatisés (Jest, Testing Library, Vitest) et amélioration continue de la qualité du code
 
 ## 🧰 Stack & outils
 **Frameworks & libs :** React, Next.js, Vue.js, Redux, Jotai, Zustand  
@@ -32,6 +33,11 @@ Je conçois, migre et optimise des applications web à fort trafic pour des entr
 - Migration React legacy → React 18
 - Refonte architecture frontend
 - Amélioration du design system et des performances
+
+### 🏠 SeLoger (Groupe Aviv)
+- Développement de fonctionnalités en **JavaScript**, **Vue.js** et **React** selon les besoins des différents parcours utilisateurs.  
+- Contribution à plusieurs modules clés (calculatrices, formulaires, interactions) en passant d’une stack à l’autre sans difficulté.  
+- Participation active à l’évolution du frontend dans un environnement à fort trafic et à exigences élevées.
 
 ## 🌍 Projets visibles en production
 
