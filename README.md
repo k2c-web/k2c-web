@@ -3,8 +3,6 @@
 Passionné par les interfaces élégantes, les architectures frontend modernes et les expériences utilisateur fluides.  
 Je conçois, migre et optimise des applications web à fort trafic pour des entreprises exigeantes.
 
----
-
 ## 🚀 Ce que je fais au quotidien
 - Développement frontend moderne avec **React 18**, **Next.js 14 (App Router)** et **TypeScript 5**  
 - Refactoring avancé : découpage de composants complexes, simplification des flux, réduction de la dette technique  
@@ -12,8 +10,6 @@ Je conçois, migre et optimise des applications web à fort trafic pour des entr
 - Intégration avec des **API REST/GraphQL**, microservices ou **CMS headless**  
 - Collaboration étroite avec designers, PM, data & SEO pour garantir une expérience fluide et cohérente  
 - Mise en place de tests automatisés (Jest, Testing Library, Vitest) et amélioration continue de la qualité du code  
-
----
 
 ## 🧰 Stack & outils
 
@@ -38,8 +34,6 @@ Prismic, Drupal, intégration API REST/GraphQL, CMS headless, environnements mic
 **Outils & écosystème :**  
 Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 
----
-
 ## 🏗️ Architecture & pratiques
 
 - Conception et évolution d’architectures frontend modernes (React 18, Next.js 14, RSC)  
@@ -49,8 +43,6 @@ Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 - Intégration API : microservices, REST, GraphQL, CMS headless  
 - Patterns : composition, hooks avancés, providers, architecture modulaire  
 - Qualité : tests unitaires, tests d’intégration, documentation, revues de code  
-
----
 
 ## 🏢 Expériences récentes
 
@@ -74,8 +66,6 @@ Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 - Contribution à plusieurs modules clés (calculatrices, formulaires, interactions)  
 - Passage fluide d’une stack à l’autre dans un environnement à fort trafic  
 
----
-
 ## 🌍 Projets visibles en production
 
 ### 🕰️ Tudor / Rolex
@@ -98,13 +88,6 @@ Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 - **FDJ Crescendo — vidéos & contenus interactifs**  
   https://www.fdj.fr/jeux-de-tirage/crescendo/videos  
 
----
-
-## 📫 Me contacter
-- LinkedIn : *ajoute ton lien ici*  
-- Portfolio : *si tu veux en créer un, je peux t’aider*  
-
----
 
 Merci d’être passé sur mon profil 👀  
 Toujours ouvert aux discussions tech, collaborations et projets intéressants.
