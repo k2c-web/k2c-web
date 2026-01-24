@@ -40,12 +40,12 @@ Voici une sélection de plateformes et fonctionnalités sur lesquelles j’ai co
 ### 🕰️ Tudor / Rolex
 - **Tudor Mag** — Contenus éditoriaux premium  
   https://www.tudorwatch.com/fr/tudor-mag
+- **Tudor Pressroom** — Espace presse international  
+  https://www.tudorwatch.com/fr/pressroom
 - **Tudor Retailer Locator** — Localisation des revendeurs  
   https://www.tudorwatch.com/fr/retailer
 - **Rolex Store Locator (France)** — Recherche de boutiques officielles  
   https://www.rolex.com/fr/store-locator/france
-- **Tudor Pressroom** — Espace presse international  
-  https://www.tudorwatch.com/fr/pressroom
 
 ### ⚡ Ekwateur
 - **Blog Ekwateur** — Articles, SEO, performance  
