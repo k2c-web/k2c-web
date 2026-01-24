@@ -4,8 +4,16 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3-42b883?logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC?logo=tailwindcss&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS-Modules-1572B6?logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styledcomponents&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux&logoColor=white)
+![Jotai](https://img.shields.io/badge/Jotai-State-2E7D32)
+![Storybook](https://img.shields.io/badge/Storybook-UI%20Components-FF4785?logo=storybook&logoColor=white)
 ![Jest](https://img.shields.io/badge/Tests-Jest-C21325?logo=jest&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/Forms-React%20Hook%20Form-EC5990)
+
 
 Passionné par les interfaces élégantes, les architectures frontend modernes et les expériences utilisateur fluides.  
 Je conçois, migre et optimise des applications web à fort trafic pour des entreprises exigeantes.
@@ -19,11 +27,28 @@ Je conçois, migre et optimise des applications web à fort trafic pour des entr
 - Mise en place de tests automatisés (Jest, Testing Library, Vitest) et amélioration continue de la qualité du code
 
 ## 🧰 Stack & outils
-**Frameworks & libs :** React, Next.js, Vue.js, Redux, Jotai, Zustand  
-**UI :** TailwindCSS, Storybook, Radix UI  
-**Tests :** Jest, Testing Library, Vitest  
-**CMS & backend :** Prismic, Drupal, Node.js  
-**Autres :** GitHub Actions, Webpack/Vite, GTM, A/B testing
+
+**Langages & base frontend :**  
+HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+**Frameworks & libs :**  
+React 18, Next.js 14 (App Router), Vue.js, Redux, Jotai, Zustand
+
+**UI & styles :**  
+TailwindCSS, CSS Modules, Styled Components, Storybook, design systems, composants réutilisables
+
+**Formulaires & UX :**  
+React Hook Form, Formik, validation, gestion fine des erreurs et des états de formulaire
+
+**Tests & qualité :**  
+Jest, Testing Library, Vitest, bonnes pratiques de refacto, patterns de composants
+
+**Contenu & backend :**  
+Prismic, Drupal, intégration avec des API REST/GraphQL, CMS headless, environnements microservices
+
+**Outils & écosystème :**  
+Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
+
 
 ## 🏗️ Architecture & pratiques
 - Conception et évolution d’architectures frontend modernes (React 18, Next.js 14, RSC)  
