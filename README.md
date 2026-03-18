@@ -64,7 +64,15 @@ Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 ### 🏠 SeLoger (Groupe Aviv)
 - Développement en **JavaScript**, **Vue.js** et **React**  
 - Contribution à plusieurs modules clés (calculatrices, formulaires, interactions)  
-- Passage fluide d’une stack à l’autre dans un environnement à fort trafic  
+- Passage fluide d’une stack à l’autre dans un environnement à fort trafic
+
+## 🎯 Sélection de réalisations
+- **Refonte du parcours Favoris (FDJ)** — multi‑APIs, BottomSheet générique from scratch, décision technique structurante.
+- **Player vidéo Crescendo (FDJ)** — player HLS/YouTube intelligent connecté à l’API, fallback automatique, accessibilité.
+- **Migration Next.js App Router (Ekwateur)** — Server Components, réduction JS client, perf & SEO améliorés.
+- **Système auteurs headless (Ekwateur)** — Prismic + Next.js SSG, pages auteurs, doc marketing, autonomie contenu.
+- **Store Locator international (MatchBox)** — Google Maps + Baidu Maps dans un même composant, UX fluide malgré la complexité.
+- **Migration progressive Vue → React (SeLoger)** — stratégie via Vuera, POC, migration sans freeze produit.
 
 ## 🌍 Projets visibles en production
 
@@ -88,6 +96,12 @@ Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 - **FDJ Crescendo — vidéos & contenus interactifs**  
   https://www.fdj.fr/jeux-de-tirage/crescendo/videos  
 
+## 📬 Contact
+Merci d’être passé sur mon profil 👀
 
-Merci d’être passé sur mon profil 👀  
-Toujours ouvert aux discussions tech, collaborations et projets intéressants.
+- **LinkedIn**  
+[https://www.linkedin.com/in/kamil-cassam-chenai](https://www.linkedin.com/in/k2cweb/)
+
+- **Disponibilité**  
+Ouvert aux collaborations front senior / lead sur des produits avec de vrais enjeux d’architecture, de performance et d’expérience utilisateur.
+
