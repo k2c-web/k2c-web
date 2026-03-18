@@ -1,4 +1,6 @@
-# 👋 Salut, moi c’est Kamil — Senior Frontend Developer
+# 👋 Salut, moi c’est Kamil - Dev Front Sénior !
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Styled--Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Prismic-5163BA?logo=prismic&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge" />
+
 
 Passionné par les interfaces élégantes, les architectures frontend modernes et les expériences utilisateur fluides.  
 Je conçois, migre et optimise des applications web à fort trafic pour des entreprises exigeantes.
@@ -34,7 +36,11 @@ Prismic, Drupal, intégration API REST/GraphQL, CMS headless, environnements mic
 **Outils & écosystème :**  
 Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 
+**IA & productivité :**  
+Copilot, Gitlab Duo, VSCode Chat, Claude Code, Cursor, Continue.dev — accélération du typage, refactoring, tests E2E, documentation et exploration de patterns d’architecture.
+
 ## 🏗️ Architecture & pratiques
+  <img src="https://img.shields.io/badge/Performance-Optimisation-4ade80?style=for-the-badge" /> <img src="https://img.shields.io/badge/Architecture-Frontend-0ea5e9?style=for-the-badge" /> <img src="https://img.shields.io/badge/Design%20System-Scalable-f43f5e?style=for-the-badge" />
 
 - Conception et évolution d’architectures frontend modernes (React 18, Next.js 14, RSC)  
 - Découpage logique : composants, modules, feature folders, séparation des responsabilités  
@@ -99,9 +105,4 @@ Git, GitHub, GitHub Actions, Webpack, Vite, GTM, A/B testing
 ## 📬 Contact
 Merci d’être passé sur mon profil 👀
 
-- **LinkedIn**  
-[https://www.linkedin.com/in/kamil-cassam-chenai](https://www.linkedin.com/in/k2cweb/)
-
-- **Disponibilité**  
-Ouvert aux collaborations front senior / lead sur des produits avec de vrais enjeux d’architecture, de performance et d’expérience utilisateur.
-
+Ouvert aux collaborations front senior / lead sur des produits avec de vrais enjeux d’architecture, de performance et d’expérience utilisateur. [LinkedIn](https://www.linkedin.com/in/k2cweb/)
