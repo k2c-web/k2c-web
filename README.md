@@ -22,7 +22,7 @@ HTML5, CSS3, JavaScript (ES6+), TypeScript
 React 18, Next.js 14, Vue.js, Redux, Jotai, Zustand
 
 **UI & styles :**  
-TailwindCSS, CSS Modules, Styled Components, Storybook, composants réutilisables
+TailwindCSS, CSS Modules, Styled Components, Shadcn/ui, Storybook, composants réutilisables
 
 **Formulaires & UX :**  
 React Hook Form, Formik, validation, gestion fine des erreurs et des états
@@ -53,8 +53,8 @@ Copilot, Gitlab Duo, VSCode Chat, Claude Code, Cursor, Continue.dev — accélé
 ## 🏢 Expériences récentes
 
 ### ✈️ NG Travel
-- Optimisation des performances (cache serveur BFF, LCP/CLS de la fiche produit) avec **Next.js** + **React Query**
-- Développement de composants réutilisables desktop/mobile (Design System, widget de réservation) avec **Radix UI** + **Tailwind CSS**
+- Optimisation des performances (cache serveur BFF, LCP/CLS de la fiche produit)
+- Développement de composants réutilisables desktop/mobile (Design System, widget de réservation)
 - Refonte de l'architecture des états de chargement (filtres, skeletons) sur les pages de résultats
 
 ### 🎮 FDJ United
