@@ -6,7 +6,7 @@ Passionné par les interfaces élégantes, les architectures frontend modernes e
 Je conçois, migre et optimise des applications web à fort trafic pour des entreprises exigeantes.
 
 ## 🚀 Ce que je fais au quotidien
-- Développement frontend moderne avec **React 18**, **Next.js 14 (App Router)** et **TypeScript 5**  
+- Développement frontend moderne avec **React**, **Next.js (App Router)** et **TypeScript 5**  
 - Refactoring avancé : découpage de composants complexes, simplification des flux, réduction de la dette technique  
 - Optimisation des performances : rendu, lazy-loading, allègement des bundles, gestion fine de l’état  
 - Intégration avec des **API REST/GraphQL**, microservices ou **CMS headless**  
@@ -51,6 +51,11 @@ Copilot, Gitlab Duo, VSCode Chat, Claude Code, Cursor, Continue.dev — accélé
 - Qualité : tests unitaires, tests d’intégration, documentation, revues de code  
 
 ## 🏢 Expériences récentes
+
+### ✈️ NG Travel
+- Optimisation des performances (cache serveur BFF, LCP/CLS de la fiche produit) avec **Next.js** + **React Query**
+- Développement de composants réutilisables desktop/mobile (Design System, widget de réservation) avec **Radix UI** + **Tailwind CSS**
+- Refonte de l'architecture des états de chargement (filtres, skeletons) sur les pages de résultats
 
 ### 🎮 FDJ United
 - Développement de nouvelles features (jeux, playlists vidéo, modules interactifs)  
